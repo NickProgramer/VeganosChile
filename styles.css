@@ -9,6 +9,7 @@ text-decoration: None;
 }
 
 .nav {
+  color: blue;
   display: flex;
   justify-content: space-around;
   font-weight: 700;
